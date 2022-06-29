@@ -26,6 +26,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [__MIT__](https://choosealicense.com/licenses/mit/)
 
-![proje foto](proje_foto.png)
+![proje foto](proje_foto.PNG)
 
 
